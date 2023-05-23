@@ -1,0 +1,10 @@
+D:\dev\OffGrid\bin\Debug\netstandard2.0\OffGrid.deps.json
+D:\dev\OffGrid\bin\Debug\netstandard2.0\OffGrid.dll
+D:\dev\OffGrid\bin\Debug\netstandard2.0\OffGrid.pdb
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.csproj.AssemblyReference.cache
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.AssemblyInfoInputs.cache
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.AssemblyInfo.cs
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.csproj.CoreCompileInputs.cache
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.dll
+D:\dev\OffGrid\obj\Debug\netstandard2.0\OffGrid.pdb
